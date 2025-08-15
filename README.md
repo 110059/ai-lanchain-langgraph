@@ -35,7 +35,7 @@ graph TD
 
 5. Workflow Diagram (PNG)
 
-![Graph Diagram](./graph.png)
+![Graph](./graph.png)
 
 6. Notes
 
