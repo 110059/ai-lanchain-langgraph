@@ -1,0 +1,8 @@
+graph TD
+  START --> fetch_rate
+  fetch_rate --> convert_amount
+  convert_amount --> summarize
+  summarize --> send_slack
+  summarize --> send_email
+  send_slack --> END
+  send_email --> END
