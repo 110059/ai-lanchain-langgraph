@@ -6,9 +6,7 @@ It fetches exchange rates, converts an amount, summarizes the transaction, and s
 
 ## 1. Install Dependencies
 
-```bash
-npm init -y
-npm install @langchain/langgraph langchain axios zod dotenv fs @google/generative-ai
+npm install
 
 ## 2. Create .env File
 API_KEY=your_exchangerate_api_key
